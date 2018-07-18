@@ -88,7 +88,7 @@ const waitOptsFactory = timeData => ({
   options: {
     title: {
       display: true,
-      text: 'fuck you!'
+      text: 'hi'
     },
     scales: {
       yAxes: [{
@@ -137,7 +137,7 @@ const turnaround_opts = {
   options: {
     title: {
       display: true,
-      text: 'fuck you!'
+      text: 'hi'
     },
     scales: {
       yAxes: [{
